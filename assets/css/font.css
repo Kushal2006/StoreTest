@@ -1,5 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@500&family=Nunito:wght@800&display=swap');
 
 .text-header a{
     font-family: 'Nunito', sans-serif;
+}
+
+.text-for-sab p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 3rem;
+}
+
+.signup-text p{
+    font-family: 'Akshar', sans-serif;
+    font-size: 1.5rem;
+}
+
+.signup-detail-inside h3{
+    font-family: 'Akshar', sans-serif;
 }

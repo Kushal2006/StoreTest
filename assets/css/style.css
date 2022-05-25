@@ -1,4 +1,4 @@
-
+/* Koi Mera CSS Use Nahi Karenga */
 
 
 
@@ -74,5 +74,112 @@ header{
   
   .sign-up-button:hover,
   .sign-up-button:focus {
+    opacity: .75;
+  }
+
+.text-for-sab{
+    text-align: center;
+    margin-top: 75px;
+    margin-left: 346px;
+    width: 700px;
+}
+
+.sign-up-button-2 {
+    background-color: #222;
+    border-radius: 4px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+    margin: 0;
+    max-width: none;
+    min-height: 44px;
+    min-width: 10px;
+    outline: none;
+    overflow: hidden;
+    padding: 9px 20px 8px;
+    position: relative;
+    text-align: center;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 17%;
+    margin-left: 584px;
+  }
+  
+  .sign-up-button-2:hover,
+  .sign-up-button-2:focus {
+    opacity: .75;
+  }
+
+  /* SignUP */
+
+.signup-text p{
+    text-align: center;
+    margin-top: 112px;
+}
+
+.signup-detail{
+    position: relative;
+    top: -26px;
+}
+
+.signup-detail-outer{
+    width: 400px;
+    height: 600px;
+    margin-left: 475px;
+}
+
+.signup-detail-inside{
+    display: flex;
+    order: 3;
+    flex-direction: column;
+}
+
+.signup-deatil-inside input{
+    height: 36px;
+}
+
+.sign-button-signup{
+    position: relative;
+    bottom: 353px;
+    right: 25px;
+}
+
+.sign-up-button-3 {
+    background-color: #222;
+    border-radius: 4px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+    margin: 0;
+    max-width: none;
+    min-height: 44px;
+    min-width: 10px;
+    outline: none;
+    overflow: hidden;
+    padding: 9px 20px 8px;
+    position: relative;
+    text-align: center;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 17%;
+    margin-left: 584px;
+  }
+  
+  .sign-up-button-3:hover,
+  .sign-up-button-3:focus {
     opacity: .75;
   }
